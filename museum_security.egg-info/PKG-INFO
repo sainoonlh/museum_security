@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: museum-security
+Version: 0.3
+Summary: Museum Security Project
+Home-page: https://github.com/sainoonlh/museum_security
+Author: Sai Noon Leng Harn
+Author-email: sainoonlengharn@gmail.com
+Project-URL: Source, https://github.com/sainoonlh/museum_security
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: requires-python
+Dynamic: summary
+
+# Museum Security Project
