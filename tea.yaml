@@ -1,9 +1,8 @@
-version: 1.0.0
-project_name: museum_security
-repository_url: https://github.com/sainoonlh/museum_security
-codeOwners:
-  - sainoonlh
-quorum: 1
-vote_duration_days: 3
-treasury_currency: USD
-teaRank: 67.74
+# tea.yaml - TEA Protocol configuration
+name: museum_security
+description: "Museum Security Project"
+version: 0.1
+maintainers:
+  - username: sainoonlh
+    role: lead
+dependencies: []
